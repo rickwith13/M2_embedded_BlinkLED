@@ -43,7 +43,3 @@ You will need to have the AVR toolchain installed on your system. This includes:
 * avr-libc
 * avrdude
 
-Support
-------
-Please feel free to contact me if you have any questions/concerns. My email address is hossamelbahrawy52@gmail.com
-
