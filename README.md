@@ -1,5 +1,7 @@
 Ultrasonic sensor
 ================
+# Build
+[![Compile-Linux](https://github.com/rickwith13/M2_embedded_Ultrasonicsensor_interfacing/actions/workflows/Compile.yml/badge.svg)](https://github.com/rickwith13/M2_embedded_Ultrasonicsensor_interfacing/actions/workflows/Compile.yml)
 
 Introduction
 ------------
